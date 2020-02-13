@@ -3,3 +3,7 @@ mkdir "nombre de la carpeta"
 ls -> ver qué pedo hay
 vi "nombre del arcihvo" -> editar el archivo
 esc + shift + z + z -> salir del editor vi
+git commit -> hacer comit
+git log -> ver los comits hechos
+git status -> ver el estado del repositorio
+git config --all 
