@@ -7,3 +7,7 @@ git commit -> hacer comit
 git log -> ver los comits hechos
 git status -> ver el estado del repositorio
 git config --all 
+
+
+
+la vida es un freestyle
