@@ -1,0 +1,5 @@
+cd .. -> regresar
+mkdir "nombre de la carpeta"
+ls -> ver qué pedo hay
+vi "nombre del arcihvo" -> editar el archivo
+esc + shift + z + z -> salir del editor vi
